@@ -4,7 +4,7 @@ Maintainer: Blizard0
 Architecture: iphoneos-arm
 Version: 1.0.2
 Depends: mobilesubstrate
-Filename: debs//rmvlsclockTEST
+Filename: debs//rmvlsclockTEST.deb
 Size: 1054 bytes
 MD5sum: 805fc020480a8d990aefa415bf18715b
 SHA1: 660ba5d334b62e076d1583ac3ef9171f32167ac0
