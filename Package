@@ -1,0 +1,15 @@
+Package: blizard0
+Section: tweaks
+Maintainer: 
+Architecture: iphoneos-arm
+Version: 1.0.2
+Depends: mobilesubstrate
+Filename: debs//rmvlsclockTEST
+Size: 1054 bytes
+MD5sum: 805fc020480a8d990aefa415bf18715b
+SHA1: 660ba5d334b62e076d1583ac3ef9171f32167ac0
+SHA256: 7de3c67947f67f634e2e101cff9441b2dbe18cf25d5a15d44dcf78dbac43d281
+Description: Hide LockScreen Clock&Date.
+Name: rmvlsclock
+Author: Blizard0
+
