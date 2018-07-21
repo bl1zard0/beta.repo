@@ -1,0 +1,15 @@
+Origin: bl1zard0's Repo
+
+Label: bl1zard0's Repo
+
+Suite: stable
+
+Version: 0.1
+
+Codename: artemis
+
+Architecture: iphoneos-arm
+
+Components: main
+
+Description: bl1zard0's Repo for my and others tweaks
