@@ -1,0 +1,61 @@
+Package: blizard0
+Section: Tweaks
+Maintainer: Blizard0
+Architecture: iphoneos-arm
+Version: 1.0.2
+Depends: mobilesubstrate
+Filename: debs//rmvlsclockTEST.deb
+Size: 1054 bytes
+MD5sum: 805fc020480a8d990aefa415bf18715b
+SHA1: 660ba5d334b62e076d1583ac3ef9171f32167ac0
+SHA256: 7de3c67947f67f634e2e101cff9441b2dbe18cf25d5a15d44dcf78dbac43d281
+Description: Hide LockScreen Clock&Date. Simple but usefull for cleaner look.
+Name: rmvlsclock
+Author: Blizard0
+
+Package: com.gilshahar7.batterynotch
+Section: Tweaks
+Maintainer: gilshahar7
+Architecture: iphoneos-arm
+Version: 1.1.0
+Depends: mobilesubstrate, org.thebigboss.libclolorpicker
+Filename: debs//com.gilshahar7.batterynotch_1.1.0_iphoneos-arm.deb
+Size: 63336 bytes
+MD5sum: 5815cb805211d86dca79e4eb2a1e3f3e
+SHA1: 33aa9739f0997146eb19aebac46c87d0038e5d9e
+SHA256: a3b54a13371589729c62ef28eeb591226157c4313295d5cb863df172a6aecc44
+Description: Represent battery around the notch
+Name: BatteryNotch
+Author: gilshahar7
+
+Package: com.ioscreatix.intelix
+Section: Tweaks
+Maintainer: iOS Creatix
+Architecture: iphoneos-arm
+Version: 1.3.4
+Depends: mobilesubstrate
+Filename: debs//com.ioscreatix.intelix_1.3.4_iphoneos-arm.deb
+Size: 32744 bytes
+MD5sum: 0e9c9e5af42ea5f91df9def4df227b28
+SHA1: b34c83039df6f6d8f0d1450345597a579b557ed1
+SHA256: 262d1ab3502ad50d7e7eeef4738d7296f4bffa9a2eb80aad31c87840eed96a0e
+Description: Grouped Notifications on iOS 11
+Name: Intelix
+Author: iOS Creatix
+
+Package: me.gmoran.eclipsex
+Section: Tweaks
+Maintainer: Guillermo Mor?°n (fr0st)
+Architecture: iphoneos-arm
+Version: 5.0.8-3
+Depends: mobilesubstrate, preferenceloader, applist, org.thebigboss.libcolorpicker, firmware (>= 11.0)
+Filename: debs//me.gmoran.eclipsex_5.0.8-3_iphoneos-arm
+Size: 612450 bytes
+MD5sum: 0f860eb4f1287224b9a60619285e1d95
+SHA1: 7db717a66b368dbc487ea29bffd044208ca2e433
+SHA256: 9e36ef84b3f6718e9dcebd0fb053c0e0a629314ff5b7e91b56d1eccd5938e724
+Description: Universal Night Mode and more for iOS 11.
+Name: Eclipse X (iOS 11)
+Author: Guillermo Mor?°n (fr0st)
+Depiction: http://gmoran.me/eclipse_x_repo.html
+
